@@ -1,4 +1,5 @@
 node_modules/*
+scratch/*
 bundle.js
-*.log
-
+*.map
+*log

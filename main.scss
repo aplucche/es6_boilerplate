@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700);
+
+$body-font:             'Roboto Slab', serif;
+$text-primary-color:    #373D3F;
+$button-color:          #107896;
+$button-color-hover:    lighten($button-color, 10%);
+
+body {
+  background-color: white;
+  color: $text-primary-color;
+  font-family: $body-font;
+  font-size: 100%;
+}
